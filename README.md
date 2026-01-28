@@ -2,6 +2,8 @@
 
 Thanks to @Adr44mo for the very helpful PR which has been merged, the score improvements are minor but there are significant performance improvements.
 
+Thanks to @mistru97 for the suggestion regarding the plotting of the score evolution, which has been implemented in the notebook.
+
 ---
 
 In una prima fase, viene generata una soluzione, mentre in una seconda essa viene rifinita.
